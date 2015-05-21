@@ -1,3 +1,3 @@
-This is the R2 version of the Marpa module.
-Installation is discussed in the INSTALL document.
-Licensing is discussed in the LICENSE document.
+This is a python port of the R2 version of Marpa.
+
+See https://github.com/jeffreykegler/Marpa--R2 for the original version.
