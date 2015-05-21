@@ -1,3 +1,11 @@
 This is a python port of the R2 version of Marpa.
 
 See https://github.com/jeffreykegler/Marpa--R2 for the original version.
+
+
+Conversion Process
+==================
+
+The R2.py file is where the c library will get loaded, and the rest of the library gets exposed to the outside world.
+
+The scanless.g interface is the first to get ported. This is the primary code path to follow if you are thinking of helping.
