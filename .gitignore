@@ -1,5 +1,2 @@
-bin/
-include/
-local/
-lib/
+env/
 .ropeproject
